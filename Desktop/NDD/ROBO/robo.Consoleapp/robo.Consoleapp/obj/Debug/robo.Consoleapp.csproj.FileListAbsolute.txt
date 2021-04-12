@@ -1,0 +1,7 @@
+C:\Users\Ivana\Desktop\NDD\ROBO\robo.Consoleapp\robo.Consoleapp\obj\Debug\robo.Consoleapp.csprojAssemblyReference.cache
+C:\Users\Ivana\Desktop\NDD\ROBO\robo.Consoleapp\robo.Consoleapp\obj\Debug\robo.Consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\Desktop\NDD\ROBO\robo.Consoleapp\robo.Consoleapp\bin\Debug\robo.Consoleapp.exe.config
+C:\Users\Ivana\Desktop\NDD\ROBO\robo.Consoleapp\robo.Consoleapp\bin\Debug\robo.Consoleapp.exe
+C:\Users\Ivana\Desktop\NDD\ROBO\robo.Consoleapp\robo.Consoleapp\bin\Debug\robo.Consoleapp.pdb
+C:\Users\Ivana\Desktop\NDD\ROBO\robo.Consoleapp\robo.Consoleapp\obj\Debug\robo.Consoleapp.exe
+C:\Users\Ivana\Desktop\NDD\ROBO\robo.Consoleapp\robo.Consoleapp\obj\Debug\robo.Consoleapp.pdb
