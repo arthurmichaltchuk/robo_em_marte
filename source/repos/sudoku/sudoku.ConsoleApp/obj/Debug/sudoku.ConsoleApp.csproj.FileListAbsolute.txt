@@ -1,0 +1,7 @@
+C:\Users\Ivana\source\repos\sudoku\sudoku.ConsoleApp\bin\Debug\sudoku.ConsoleApp.exe.config
+C:\Users\Ivana\source\repos\sudoku\sudoku.ConsoleApp\bin\Debug\sudoku.ConsoleApp.exe
+C:\Users\Ivana\source\repos\sudoku\sudoku.ConsoleApp\bin\Debug\sudoku.ConsoleApp.pdb
+C:\Users\Ivana\source\repos\sudoku\sudoku.ConsoleApp\obj\Debug\sudoku.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Ivana\source\repos\sudoku\sudoku.ConsoleApp\obj\Debug\sudoku.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\source\repos\sudoku\sudoku.ConsoleApp\obj\Debug\sudoku.ConsoleApp.exe
+C:\Users\Ivana\source\repos\sudoku\sudoku.ConsoleApp\obj\Debug\sudoku.ConsoleApp.pdb
